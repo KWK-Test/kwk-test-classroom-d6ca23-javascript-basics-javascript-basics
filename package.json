@@ -1,0 +1,17 @@
+{
+  "name": "javascript-basics",
+  "version": "1.0.0",
+  "description": "A project for students to refresh their JavaScript skills and get introduced to linting and unit testing.",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "jsdom": "^26.1.0",
+    "vitest": "^3.1.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
